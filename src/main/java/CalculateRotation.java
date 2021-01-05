@@ -26,6 +26,10 @@ public class CalculateRotation {
 //        return index+1;
 
 
+        int [] arr = null;
+
+        if (arr==null)
+
 
             if (first.length() != second.length())
                 return -1;

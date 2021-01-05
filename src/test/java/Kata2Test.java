@@ -10,7 +10,7 @@ import static org.junit.Assert.assertEquals;
 
 public class Kata2Test {
 
-
+    @Test
     public void TestSomething(){
         assertArrayEquals(new int[]{}, Kata2.countPositivesSumNegatives(null));
     }

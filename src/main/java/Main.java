@@ -9,6 +9,9 @@ public class Main extends MysteryColorAnalyzerImpl {
         int[] array = {1, 2, 3};
         int[] invert = new int[array.length];
 
+        System.out.println("HEYYYYY");
+        Arrayss.findSmallest(new int[]{5,32,423}, "aasfga");
+        System.out.println("HEYYYYY");
         Sorted.sortArray(new int[]{5, 3, 1, 8, 0, 2, 9, 4, 13, 0, 15, 7, 2, 4, 19});
 
         DivSeven.seven(477557101);
