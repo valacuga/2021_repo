@@ -11,6 +11,9 @@ public class TheOffice {
 
                 counter += per.happiness;
         }
+
+
+
         System.out.println((double) counter/meet.length);
         if(counter/meet.length<=5){
             return "Get Out Now!";

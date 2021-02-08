@@ -67,7 +67,7 @@ public class KataEncrypt {
 
         if (args1.size() % 2 == 1) {
 
-            result = sb3.toString().substring(0, sb3.length() - 1);
+            result = sb3.substring(0, sb3.length() - 1);
         } else {
             result = sb3.toString();
         }
